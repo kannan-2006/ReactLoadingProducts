@@ -1,0 +1,17 @@
+.products-container {
+    width:80%; 
+    margin: auto; 
+    background-color: beige;   
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+
+} 
+
+.products {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: wrap; 
+    text-align: center;
+}
